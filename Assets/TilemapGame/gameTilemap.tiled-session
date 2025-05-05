@@ -1,0 +1,81 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "/Users/mihaelamironet/Downloads/comp1151prac-tilemapgame-mironetm/Assets/Tiled/kenney_tiny-dungeon/Tiled/sampleMap.tmx": {
+            "scale": 0.61044921875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.98720204767235,
+                "y": 452.12605983042715
+            }
+        },
+        "/Users/mihaelamironet/Downloads/comp1151prac-tilemapgame-mironetm/Assets/Tiled/kenney_tiny-dungeon/Tiled/sampleSheet.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/mihaelamironet/Downloads/comp1151prac-tilemapgame-mironetm/Assets/Tiled/kenney_tiny-dungeon/Tilemap/comp1151prac-tilemapgame-mironetm/Assets/TilemapGame/TinyDungeon_Tilesheet.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/mihaelamironet/Downloads/comp1151prac-tilemapgame-mironetm/Assets/Tiled/kenney_tiny-dungeon/Tilemap/tilemap.tmx": {
+            "scale": 2.2083,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 218.04102703437033,
+                "y": 90.11456776706063
+            }
+        },
+        "/Users/mihaelamironet/Downloads/tilemap 13.07.26.tmx": {
+            "scale": 0.61044921875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 256.36858102703565,
+                "y": 127.77475603903372
+            }
+        },
+        "/Users/mihaelamironet/Downloads/tilemap.tmx": {
+            "scale": 0.712,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 159.41011235955057,
+                "y": 38.62359550561803
+            }
+        },
+        "TinyDungeon_Tilesheet.tsx": {
+            "scaleInDock": 2.6225,
+            "scaleInEditor": 1
+        },
+        "comp1151prac-tilemapgame-mironetm/Assets/TilemapGame/TinyDungeon_Tilesheet.tsx": {
+            "scaleInDock": 1
+        },
+        "tilemap 13.07.26.tmx": {
+            "scale": 0.61044921875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 256.36858102703565,
+                "y": 127.77475603903372
+            }
+        },
+        "untitled.tmx": {
+            "scale": 0.61044921875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 256.36858102703565,
+                "y": 127.77475603903378
+            }
+        }
+    },
+    "openFiles": [
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "/Users/mihaelamironet/Downloads/tilemap 13.07.26.tmx",
+        "/Users/mihaelamironet/Downloads/comp1151prac-tilemapgame-mironetm/Assets/Tiled/kenney_tiny-dungeon/Tiled/sampleMap.tmx",
+        "tilemap 13.07.26.tmx",
+        "untitled.tmx",
+        "TinyDungeon_Tilesheet.tsx",
+        "/Users/mihaelamironet/Downloads/tilemap.tmx",
+        "/Users/mihaelamironet/Downloads/comp1151prac-tilemapgame-mironetm/Assets/Tiled/kenney_tiny-dungeon/Tilemap/tilemap.tmx"
+    ]
+}
