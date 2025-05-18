@@ -9,11 +9,11 @@
     ],
     "fileStates": {
         "tileMap.tmx": {
-            "scale": 4.1923,
-            "selectedLayer": 0,
+            "scale": 0.5018,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 47.70650955322853,
-                "y": -84.08272308756528
+                "x": 107.61259465922677,
+                "y": -314.86648066958946
             }
         },
         "tiles.tsx": {
