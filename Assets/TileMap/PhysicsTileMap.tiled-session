@@ -3,10 +3,51 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "PhysicsTileMap.tmx",
     "expandedProjectPaths": [
+        "Racing Pack"
     ],
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "/Users/mihaelamironet/Downloads/comp1151-game-prototype-mironetm/COMP1151 Game Prototype/Assets/TileMap/Level1Ground.tmx": {
+            "scale": 0.15,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -20,
+                "y": -793.3333333333335
+            }
+        },
+        "/Users/mihaelamironet/Downloads/comp1151-game-prototype-mironetm/COMP1151 Game Prototype/Assets/TileMap/ground.tsx": {
+            "scaleInDock": 0.1878
+        },
+        "PhysicsTileMap.tmx": {
+            "scale": 2.0412,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 106.79992161473643,
+                "y": 9.3082500489908
+            }
+        },
+        "Racing Pack/spritesheet_tiles.tsx": {
+            "scaleInDock": 0.2087,
+            "scaleInEditor": 0.14
+        },
+        "tileMap.tmx": {
+            "scale": 0.38,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.94736842105266,
+                "y": -255.26315789473688
+            }
+        },
+        "tilemap_packed.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
     },
     "last.imagePath": "/Users/mihaelamironet/Downloads/kenney_tiny-dungeon/Tilemap",
     "map.fixedSize": false,
@@ -14,9 +55,19 @@
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
+        "/Users/mihaelamironet/Downloads/comp1151-game-prototype-mironetm/COMP1151 Game Prototype/Assets/TileMap/Level1Ground.tmx",
+        "Racing Pack/spritesheet_tiles.tsx",
+        "tilemap_packed.tsx",
+        "PhysicsTileMap.tmx"
     ],
     "project": "PhysicsTileMap.tiled-project",
     "recentFiles": [
+        "PhysicsTileMap.tmx",
+        "tilemap_packed.tsx",
+        "Racing Pack/spritesheet_tiles.tsx",
+        "/Users/mihaelamironet/Downloads/comp1151-game-prototype-mironetm/COMP1151 Game Prototype/Assets/TileMap/Level1Ground.tmx",
+        "tileMap.tmx",
+        "tiles.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
